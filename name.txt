@@ -1,1 +1,2 @@
-ganesh
+ganesh - Developer
+madhu - Release mgr
